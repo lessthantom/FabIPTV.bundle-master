@@ -3,13 +3,22 @@
 [![Downloads](https://img.shields.io/github/downloads/Cigaras/IPTV.bundle/total.svg "Downloads")](https://github.com/Cigaras/IPTV.bundle/releases) [![PayPal](https://img.shields.io/badge/donate-PayPal-green.svg)](https://paypal.me/valdasvaitiekaitis) [![BitCoin](https://img.shields.io/badge/donate-BitCoin-green.svg)](http://valdas.ax.lt/bitcoin)
 
 ### Introduction ###
-A simple [Plex Media Servers](https://www.plex.tv/downloads) plug-in that reads live streams (like [IPTV](http://en.wikipedia.org/wiki/IPTV)) urls from a [m3u](https://en.wikipedia.org/wiki/M3U) file and passes 'em to Plex in format understandable to Plex so it could try to play them.
+A simple [Plex Media Servers](https://www.plex.tv/downloads) plug-in for FabIPTV based on the amazing code by Cigaras https://github.com/Cigaras/IPTV.bundle
 
-In short, as title states, it lets You watch IPTV in Plex.
+Lets you watch FabIPTV Streams (provided by yourself) on Plex 
 
-It also has a basic program guide, categories, custom logos and other goodies, **please read the [wiki](https://github.com/Cigaras/IPTV.bundle/wiki)** for information on how to set all up.
+I have Changed a few things so it works better for my environment, which may or may not be to your tastes
 
-_Important note:_ Playback is handled by Plex itself, not the plug-in, and many streams are not playable by many Plex players, **please read the [wiki](https://github.com/Cigaras/IPTV.bundle/wiki)** for more information and possible [solutions](https://github.com/Cigaras/IPTV.bundle/wiki/Troubleshooting) if Your desired stream does not work.
+EPG - removed the description as it allows me to see more shows upcoming rather than whats on Now - for the most part you at least get Now and Next (formatting is not the best but ill work on it)
+Defaults - Set the defaults so that its easier to set up with Fab 
+Logo - Changed logo to Fab
+Edited title so that it doesnt (or shouldnt) overwrite the original IPTV plugin if you run both
+
+
+I have Left the Donation links at the top of this page for Valdas (Cigaras) as his code is great so please donate to show support for his great work, this donation is nothing to do with me as only minimal things have been changed for the use of Fab Users
+
+
+
 
 ### Credits and contacts ###
 * Author: [Valdas Vaitiekaitis](http://valdas.ax.lt), also known as [Cigaras](http://forums.plex.tv/profile/Cigaras);
@@ -19,11 +28,3 @@ _Important note:_ Playback is handled by Plex itself, not the plug-in, and many 
 * Contributors: [listed on GiHub](https://github.com/Cigaras/IPTV.bundle/graphs/contributors);
 * Advisers: [Shopgirl284](https://github.com/https://forums.plex.tv/profile/discussions/shopgirl284), [Mikedm139](https://forums.plex.tv/profile/discussions/mikedm139), [Sander1](https://forums.plex.tv/profile/discussions/sander1).
 
-If You have any questions or suggestions, please feel free to contact me via [GitHub](https://github.com/Cigaras) or [Plex forum](https://forums.plex.tv/discussion/83083), or visit my personal blog at [valdasv.blogspot.lt](http://valdasv.blogspot.lt), but please keep in mind that I did this plug-in voluntary in my spare time and I have other priorities to do so do not expect a quick response. However if You find my work useful, please consider making a small [donation](https://paypal.me/valdasvaitiekaitis) as a sign of gratitude and support. Also accepting [bitcoins](http://valdas.ax.lt/bitcoin).
-
-### License ###
-Copyright © 2013-2017 Valdas Vaitiekaitis
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License](http://www.gnu.org/copyleft/gpl.html) for more details.
