@@ -1,6 +1,6 @@
 ## Plex plug-in that plays live streams (like IPTV) from a M3U playlist ##
-[![Current Release](https://img.shields.io/github/release/Cigaras/IPTV.bundle.svg "Current Release")](https://github.com/Cigaras/IPTV.bundle/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Cigaras/IPTV.bundle/total.svg "Downloads")](https://github.com/Cigaras/IPTV.bundle/releases) [![PayPal](https://img.shields.io/badge/donate-PayPal-green.svg)](https://paypal.me/valdasvaitiekaitis) [![BitCoin](https://img.shields.io/badge/donate-BitCoin-green.svg)](http://valdas.ax.lt/bitcoin)
+
+[![PayPal](https://img.shields.io/badge/donate-PayPal-green.svg)](https://paypal.me/valdasvaitiekaitis) [![BitCoin](https://img.shields.io/badge/donate-BitCoin-green.svg)](http://valdas.ax.lt/bitcoin)
 
 ### Introduction ###
 A simple [Plex Media Servers](https://www.plex.tv/downloads) plug-in for FabIPTV based on the amazing code by Cigaras https://github.com/Cigaras/IPTV.bundle
