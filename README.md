@@ -1,4 +1,4 @@
-## Plex plug-in that plays live streams (like IPTV) from a M3U playlist ##
+## Plex plug-in that plays live streams (like IPTV) from a M3U playlist specifically configured for FABIPTV customers ##
 
 [![PayPal](https://img.shields.io/badge/donate-PayPal-green.svg)](https://paypal.me/valdasvaitiekaitis) [![BitCoin](https://img.shields.io/badge/donate-BitCoin-green.svg)](http://valdas.ax.lt/bitcoin)
 
