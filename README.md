@@ -12,7 +12,7 @@ I have Changed a few things so it works better for my environment, which may or 
 EPG - removed the description as it allows me to see more shows upcoming rather than whats on Now - for the most part you at least get Now and Next (formatting is not the best but ill work on it)
 Defaults - Set the defaults so that its easier to set up with Fab 
 Logo - Changed logo to Fab
-Edited title so that it doesnt (or shouldnt) overwrite the original IPTV plugin if you run both
+Edited title to FabIPTV - currently it will still mess with the original IPTV so dont run both i suggest until ive fixed that
 
 
 I have Left the Donation links at the top of this page for Valdas (Cigaras) as his code is great so please donate to show support for his great work, this donation is nothing to do with me as only minimal things have been changed for the use of Fab Users
